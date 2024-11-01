@@ -17,7 +17,7 @@ Gestão de Vendas e Faturamento :
 - Monitoramento do pipeline de vendas, geração de orçamentos, emissão de faturas e acompanhamento de pagamentos.
 
 Relatórios e Análises :
--Relatórios sobre frequência de serviços, satisfação do cliente e desempenho financeiro, ajudando a identificar áreas de melhoria.
+- Relatórios sobre frequência de serviços, satisfação do cliente e desempenho financeiro, ajudando a identificar áreas de melhoria.
 
 Gestão de Tarefas :
 - Capacidade de criar e atribuir tarefas, garantindo que todas as atividades relacionadas aos clientes sejam concluídas em tempo hábil.
