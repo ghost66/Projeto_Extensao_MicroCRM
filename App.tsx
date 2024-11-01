@@ -7,7 +7,6 @@
  *  criado com o padrão MVC, usando o framework React Native e o banco de dados SQLite.
  *  O aplicativo foi desenvolvido para a disciplina de Programação,
  *  para Dispositivos Móveis em Android da Universidade Estácio.
- * 
  * @format
  */
 
