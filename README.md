@@ -1,5 +1,7 @@
-Micro CRM App
-Descrição
+MicroCRM App
+
+Descrição :
+
 Este projeto é um aplicativo de micro CRM para dispositivos Android, criado com o padrão MVC, usando o framework React Native e o banco de dados SQLite. O aplicativo foi desenvolvido para a disciplina de Programação para Dispositivos Móveis em Android da Universidade Estácio.
 
 Funcionalidades
