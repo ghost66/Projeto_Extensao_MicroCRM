@@ -24,4 +24,4 @@ Gestão de Tarefas :
 - Capacidade de criar e atribuir tarefas, garantindo que todas as atividades relacionadas aos clientes sejam concluídas em tempo hábil.
 
 Suporte ao Cliente :
--Sistema para registrar e gerenciar solicitações, reclamações e dúvidas dos clientes, garantindo uma resposta rápida e eficiente.
+-  Sistema para registrar e gerenciar solicitações, reclamações e dúvidas dos clientes, garantindo uma resposta rápida e eficiente.
