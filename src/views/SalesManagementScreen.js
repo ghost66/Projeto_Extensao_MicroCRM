@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
-import SalesController from '../controllers/SalesController';
+import SalesController from '../controllers/Venda_Controller';
 
 const SalesManagementScreen = () => {
   const [contactId, setContactId] = useState('');
